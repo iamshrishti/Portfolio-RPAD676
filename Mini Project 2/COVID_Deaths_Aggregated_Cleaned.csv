@@ -1,0 +1,983 @@
+State,Sex,Age Group,COVID-19 Deaths
+Alabama,Female,18-29 years,25.0
+Alabama,Female,25-34 years,56.0
+Alabama,Female,30-39 years,78.0
+Alabama,Female,35-44 years,184.0
+Alabama,Female,40-49 years,389.0
+Alabama,Female,45-54 years,636.0
+Alabama,Female,50-64 years,1914.0
+Alabama,Female,55-64 years,1477.0
+Alabama,Female,65-74 years,2236.0
+Alabama,Female,75-84 years,2491.0
+Alabama,Female,85 years and over,2379.0
+Alabama,Male,18-29 years,27.0
+Alabama,Male,25-34 years,55.0
+Alabama,Male,30-39 years,150.0
+Alabama,Male,35-44 years,292.0
+Alabama,Male,40-49 years,492.0
+Alabama,Male,45-54 years,857.0
+Alabama,Male,50-64 years,2508.0
+Alabama,Male,55-64 years,1945.0
+Alabama,Male,65-74 years,3111.0
+Alabama,Male,75-84 years,3072.0
+Alabama,Male,85 years and over,1772.0
+Alaska,Female,50-64 years,35.0
+Alaska,Female,55-64 years,28.0
+Alaska,Female,65-74 years,86.0
+Alaska,Female,75-84 years,72.0
+Alaska,Female,85 years and over,52.0
+Alaska,Male,40-49 years,12.0
+Alaska,Male,45-54 years,48.0
+Alaska,Male,50-64 years,170.0
+Alaska,Male,55-64 years,118.0
+Alaska,Male,65-74 years,155.0
+Alaska,Male,75-84 years,107.0
+Alaska,Male,85 years and over,24.0
+Arizona,Female,18-29 years,45.0
+Arizona,Female,25-34 years,114.0
+Arizona,Female,30-39 years,232.0
+Arizona,Female,35-44 years,327.0
+Arizona,Female,40-49 years,464.0
+Arizona,Female,45-54 years,691.0
+Arizona,Female,50-64 years,2139.0
+Arizona,Female,55-64 years,1673.0
+Arizona,Female,65-74 years,2885.0
+Arizona,Female,75-84 years,3288.0
+Arizona,Female,85 years and over,3081.0
+Arizona,Male,18-29 years,80.0
+Arizona,Male,25-34 years,231.0
+Arizona,Male,30-39 years,396.0
+Arizona,Male,35-44 years,546.0
+Arizona,Male,40-49 years,890.0
+Arizona,Male,45-54 years,1365.0
+Arizona,Male,50-64 years,3648.0
+Arizona,Male,55-64 years,2745.0
+Arizona,Male,65-74 years,4359.0
+Arizona,Male,75-84 years,4908.0
+Arizona,Male,85 years and over,3210.0
+Arkansas,Female,25-34 years,26.0
+Arkansas,Female,30-39 years,30.0
+Arkansas,Female,35-44 years,69.0
+Arkansas,Female,40-49 years,148.0
+Arkansas,Female,45-54 years,218.0
+Arkansas,Female,50-64 years,858.0
+Arkansas,Female,55-64 years,688.0
+Arkansas,Female,65-74 years,1229.0
+Arkansas,Female,75-84 years,1474.0
+Arkansas,Female,85 years and over,1660.0
+Arkansas,Male,18-29 years,10.0
+Arkansas,Male,25-34 years,30.0
+Arkansas,Male,30-39 years,52.0
+Arkansas,Male,35-44 years,107.0
+Arkansas,Male,40-49 years,213.0
+Arkansas,Male,45-54 years,395.0
+Arkansas,Male,50-64 years,1303.0
+Arkansas,Male,55-64 years,993.0
+Arkansas,Male,65-74 years,1640.0
+Arkansas,Male,75-84 years,1873.0
+Arkansas,Male,85 years and over,1191.0
+California,Female,15-24 years,22.0
+California,Female,18-29 years,189.0
+California,Female,25-34 years,408.0
+California,Female,30-39 years,630.0
+California,Female,35-44 years,1021.0
+California,Female,40-49 years,1644.0
+California,Female,45-54 years,2446.0
+California,Female,50-64 years,7202.0
+California,Female,55-64 years,5747.0
+California,Female,65-74 years,8988.0
+California,Female,75-84 years,11153.0
+California,Female,85 years and over,15338.0
+California,Male,0-17 years,13.0
+California,Male,15-24 years,132.0
+California,Male,18-29 years,455.0
+California,Male,25-34 years,950.0
+California,Male,30-39 years,1569.0
+California,Male,35-44 years,2364.0
+California,Male,40-49 years,3661.0
+California,Male,45-54 years,5624.0
+California,Male,50-64 years,14733.0
+California,Male,55-64 years,11343.0
+California,Male,65-74 years,14984.0
+California,Male,75-84 years,14897.0
+California,Male,85 years and over,13160.0
+Colorado,Female,30-39 years,25.0
+Colorado,Female,35-44 years,59.0
+Colorado,Female,40-49 years,138.0
+Colorado,Female,45-54 years,231.0
+Colorado,Female,50-64 years,773.0
+Colorado,Female,55-64 years,612.0
+Colorado,Female,65-74 years,1235.0
+Colorado,Female,75-84 years,1682.0
+Colorado,Female,85 years and over,2402.0
+Colorado,Male,25-34 years,51.0
+Colorado,Male,30-39 years,104.0
+Colorado,Male,35-44 years,167.0
+Colorado,Male,40-49 years,325.0
+Colorado,Male,45-54 years,552.0
+Colorado,Male,50-64 years,1640.0
+Colorado,Male,55-64 years,1255.0
+Colorado,Male,65-74 years,1992.0
+Colorado,Male,75-84 years,2288.0
+Colorado,Male,85 years and over,1959.0
+Connecticut,Female,35-44 years,10.0
+Connecticut,Female,40-49 years,10.0
+Connecticut,Female,45-54 years,75.0
+Connecticut,Female,50-64 years,479.0
+Connecticut,Female,55-64 years,374.0
+Connecticut,Female,65-74 years,792.0
+Connecticut,Female,75-84 years,1446.0
+Connecticut,Female,85 years and over,2984.0
+Connecticut,Male,30-39 years,38.0
+Connecticut,Male,35-44 years,32.0
+Connecticut,Male,40-49 years,91.0
+Connecticut,Male,45-54 years,224.0
+Connecticut,Male,50-64 years,915.0
+Connecticut,Male,55-64 years,724.0
+Connecticut,Male,65-74 years,1250.0
+Connecticut,Male,75-84 years,1686.0
+Connecticut,Male,85 years and over,2021.0
+Delaware,Female,50-64 years,124.0
+Delaware,Female,55-64 years,83.0
+Delaware,Female,65-74 years,221.0
+Delaware,Female,75-84 years,313.0
+Delaware,Female,85 years and over,455.0
+Delaware,Male,30-39 years,10.0
+Delaware,Male,35-44 years,11.0
+Delaware,Male,45-54 years,22.0
+Delaware,Male,50-64 years,204.0
+Delaware,Male,55-64 years,138.0
+Delaware,Male,65-74 years,305.0
+Delaware,Male,75-84 years,472.0
+Delaware,Male,85 years and over,284.0
+District of Columbia,Female,50-64 years,126.0
+District of Columbia,Female,55-64 years,85.0
+District of Columbia,Female,65-74 years,164.0
+District of Columbia,Female,75-84 years,112.0
+District of Columbia,Female,85 years and over,153.0
+District of Columbia,Male,45-54 years,60.0
+District of Columbia,Male,50-64 years,275.0
+District of Columbia,Male,55-64 years,172.0
+District of Columbia,Male,65-74 years,243.0
+District of Columbia,Male,75-84 years,183.0
+District of Columbia,Male,85 years and over,106.0
+Florida,Female,0-17 years,11.0
+Florida,Female,15-24 years,37.0
+Florida,Female,18-29 years,113.0
+Florida,Female,25-34 years,260.0
+Florida,Female,30-39 years,495.0
+Florida,Female,35-44 years,808.0
+Florida,Female,40-49 years,1234.0
+Florida,Female,45-54 years,1853.0
+Florida,Female,50-64 years,5419.0
+Florida,Female,55-64 years,4308.0
+Florida,Female,65-74 years,7230.0
+Florida,Female,75-84 years,9443.0
+Florida,Female,85 years and over,11570.0
+Florida,Male,15-24 years,60.0
+Florida,Male,18-29 years,233.0
+Florida,Male,25-34 years,459.0
+Florida,Male,30-39 years,756.0
+Florida,Male,35-44 years,1299.0
+Florida,Male,40-49 years,2048.0
+Florida,Male,45-54 years,3126.0
+Florida,Male,50-64 years,8723.0
+Florida,Male,55-64 years,6774.0
+Florida,Male,65-74 years,10601.0
+Florida,Male,75-84 years,12881.0
+Florida,Male,85 years and over,10460.0
+Georgia,Female,15-24 years,23.0
+Georgia,Female,18-29 years,53.0
+Georgia,Female,25-34 years,159.0
+Georgia,Female,30-39 years,287.0
+Georgia,Female,35-44 years,426.0
+Georgia,Female,40-49 years,666.0
+Georgia,Female,45-54 years,1080.0
+Georgia,Female,50-64 years,3244.0
+Georgia,Female,55-64 years,2502.0
+Georgia,Female,65-74 years,3799.0
+Georgia,Female,75-84 years,4361.0
+Georgia,Female,85 years and over,4069.0
+Georgia,Male,15-24 years,34.0
+Georgia,Male,18-29 years,76.0
+Georgia,Male,25-34 years,178.0
+Georgia,Male,30-39 years,332.0
+Georgia,Male,35-44 years,591.0
+Georgia,Male,40-49 years,968.0
+Georgia,Male,45-54 years,1627.0
+Georgia,Male,50-64 years,4466.0
+Georgia,Male,55-64 years,3401.0
+Georgia,Male,65-74 years,5205.0
+Georgia,Male,75-84 years,5199.0
+Georgia,Male,85 years and over,2988.0
+Hawaii,Female,45-54 years,11.0
+Hawaii,Female,50-64 years,61.0
+Hawaii,Female,55-64 years,41.0
+Hawaii,Female,65-74 years,88.0
+Hawaii,Female,75-84 years,28.0
+Hawaii,Female,85 years and over,189.0
+Hawaii,Male,30-39 years,11.0
+Hawaii,Male,35-44 years,13.0
+Hawaii,Male,40-49 years,32.0
+Hawaii,Male,45-54 years,39.0
+Hawaii,Male,50-64 years,162.0
+Hawaii,Male,55-64 years,110.0
+Hawaii,Male,65-74 years,157.0
+Hawaii,Male,75-84 years,119.0
+Hawaii,Male,85 years and over,161.0
+Idaho,Female,35-44 years,12.0
+Idaho,Female,40-49 years,27.0
+Idaho,Female,45-54 years,37.0
+Idaho,Female,50-64 years,239.0
+Idaho,Female,55-64 years,170.0
+Idaho,Female,65-74 years,424.0
+Idaho,Female,75-84 years,522.0
+Idaho,Female,85 years and over,692.0
+Idaho,Male,35-44 years,11.0
+Idaho,Male,40-49 years,65.0
+Idaho,Male,45-54 years,142.0
+Idaho,Male,50-64 years,504.0
+Idaho,Male,55-64 years,347.0
+Idaho,Male,65-74 years,659.0
+Idaho,Male,75-84 years,896.0
+Idaho,Male,85 years and over,684.0
+Illinois,Female,18-29 years,11.0
+Illinois,Female,25-34 years,47.0
+Illinois,Female,30-39 years,129.0
+Illinois,Female,35-44 years,210.0
+Illinois,Female,40-49 years,362.0
+Illinois,Female,45-54 years,628.0
+Illinois,Female,50-64 years,2227.0
+Illinois,Female,55-64 years,1763.0
+Illinois,Female,65-74 years,3282.0
+Illinois,Female,75-84 years,4396.0
+Illinois,Female,85 years and over,6796.0
+Illinois,Male,18-29 years,43.0
+Illinois,Male,25-34 years,124.0
+Illinois,Male,30-39 years,288.0
+Illinois,Male,35-44 years,472.0
+Illinois,Male,40-49 years,832.0
+Illinois,Male,45-54 years,1295.0
+Illinois,Male,50-64 years,3863.0
+Illinois,Male,55-64 years,3057.0
+Illinois,Male,65-74 years,5007.0
+Illinois,Male,75-84 years,5607.0
+Illinois,Male,85 years and over,5204.0
+Indiana,Female,18-29 years,10.0
+Indiana,Female,25-34 years,15.0
+Indiana,Female,30-39 years,68.0
+Indiana,Female,35-44 years,130.0
+Indiana,Female,40-49 years,227.0
+Indiana,Female,45-54 years,444.0
+Indiana,Female,50-64 years,1713.0
+Indiana,Female,55-64 years,1344.0
+Indiana,Female,65-74 years,2515.0
+Indiana,Female,75-84 years,3301.0
+Indiana,Female,85 years and over,4485.0
+Indiana,Male,18-29 years,11.0
+Indiana,Male,25-34 years,49.0
+Indiana,Male,30-39 years,115.0
+Indiana,Male,35-44 years,220.0
+Indiana,Male,40-49 years,432.0
+Indiana,Male,45-54 years,753.0
+Indiana,Male,50-64 years,2537.0
+Indiana,Male,55-64 years,2019.0
+Indiana,Male,65-74 years,3470.0
+Indiana,Male,75-84 years,3991.0
+Indiana,Male,85 years and over,3288.0
+Iowa,Female,40-49 years,40.0
+Iowa,Female,45-54 years,100.0
+Iowa,Female,50-64 years,470.0
+Iowa,Female,55-64 years,330.0
+Iowa,Female,65-74 years,780.0
+Iowa,Female,75-84 years,1182.0
+Iowa,Female,85 years and over,2227.0
+Iowa,Male,30-39 years,11.0
+Iowa,Male,35-44 years,47.0
+Iowa,Male,40-49 years,83.0
+Iowa,Male,45-54 years,192.0
+Iowa,Male,50-64 years,864.0
+Iowa,Male,55-64 years,686.0
+Iowa,Male,65-74 years,1147.0
+Iowa,Male,75-84 years,1653.0
+Iowa,Male,85 years and over,1743.0
+Kansas,Female,35-44 years,37.0
+Kansas,Female,40-49 years,79.0
+Kansas,Female,45-54 years,162.0
+Kansas,Female,50-64 years,540.0
+Kansas,Female,55-64 years,401.0
+Kansas,Female,65-74 years,805.0
+Kansas,Female,75-84 years,1025.0
+Kansas,Female,85 years and over,1689.0
+Kansas,Male,25-34 years,12.0
+Kansas,Male,30-39 years,23.0
+Kansas,Male,35-44 years,53.0
+Kansas,Male,40-49 years,171.0
+Kansas,Male,45-54 years,271.0
+Kansas,Male,50-64 years,886.0
+Kansas,Male,55-64 years,664.0
+Kansas,Male,65-74 years,1115.0
+Kansas,Male,75-84 years,1524.0
+Kansas,Male,85 years and over,1329.0
+Kentucky,Female,25-34 years,12.0
+Kentucky,Female,30-39 years,47.0
+Kentucky,Female,35-44 years,132.0
+Kentucky,Female,40-49 years,185.0
+Kentucky,Female,45-54 years,388.0
+Kentucky,Female,50-64 years,1521.0
+Kentucky,Female,55-64 years,1185.0
+Kentucky,Female,65-74 years,2078.0
+Kentucky,Female,75-84 years,2647.0
+Kentucky,Female,85 years and over,2971.0
+Kentucky,Male,15-24 years,11.0
+Kentucky,Male,18-29 years,13.0
+Kentucky,Male,25-34 years,44.0
+Kentucky,Male,30-39 years,90.0
+Kentucky,Male,35-44 years,158.0
+Kentucky,Male,40-49 years,323.0
+Kentucky,Male,45-54 years,585.0
+Kentucky,Male,50-64 years,2080.0
+Kentucky,Male,55-64 years,1623.0
+Kentucky,Male,65-74 years,2754.0
+Kentucky,Male,75-84 years,2947.0
+Kentucky,Male,85 years and over,1973.0
+Louisiana,Female,18-29 years,14.0
+Louisiana,Female,25-34 years,32.0
+Louisiana,Female,30-39 years,85.0
+Louisiana,Female,35-44 years,177.0
+Louisiana,Female,40-49 years,246.0
+Louisiana,Female,45-54 years,393.0
+Louisiana,Female,50-64 years,1423.0
+Louisiana,Female,55-64 years,1117.0
+Louisiana,Female,65-74 years,1748.0
+Louisiana,Female,75-84 years,2116.0
+Louisiana,Female,85 years and over,2024.0
+Louisiana,Male,18-29 years,28.0
+Louisiana,Male,25-34 years,53.0
+Louisiana,Male,30-39 years,109.0
+Louisiana,Male,35-44 years,230.0
+Louisiana,Male,40-49 years,397.0
+Louisiana,Male,45-54 years,684.0
+Louisiana,Male,50-64 years,2016.0
+Louisiana,Male,55-64 years,1546.0
+Louisiana,Male,65-74 years,2523.0
+Louisiana,Male,75-84 years,2503.0
+Louisiana,Male,85 years and over,1560.0
+Maine,Female,50-64 years,82.0
+Maine,Female,55-64 years,49.0
+Maine,Female,65-74 years,158.0
+Maine,Female,75-84 years,329.0
+Maine,Female,85 years and over,506.0
+Maine,Male,40-49 years,12.0
+Maine,Male,45-54 years,23.0
+Maine,Male,50-64 years,193.0
+Maine,Male,55-64 years,148.0
+Maine,Male,65-74 years,275.0
+Maine,Male,75-84 years,390.0
+Maine,Male,85 years and over,305.0
+Maryland,Female,25-34 years,13.0
+Maryland,Female,30-39 years,19.0
+Maryland,Female,35-44 years,44.0
+Maryland,Female,40-49 years,148.0
+Maryland,Female,45-54 years,301.0
+Maryland,Female,50-64 years,1090.0
+Maryland,Female,55-64 years,852.0
+Maryland,Female,65-74 years,1653.0
+Maryland,Female,75-84 years,2197.0
+Maryland,Female,85 years and over,3092.0
+Maryland,Male,25-34 years,44.0
+Maryland,Male,30-39 years,76.0
+Maryland,Male,35-44 years,178.0
+Maryland,Male,40-49 years,316.0
+Maryland,Male,45-54 years,586.0
+Maryland,Male,50-64 years,1738.0
+Maryland,Male,55-64 years,1304.0
+Maryland,Male,65-74 years,2116.0
+Maryland,Male,75-84 years,2550.0
+Maryland,Male,85 years and over,2312.0
+Massachusetts,Female,35-44 years,13.0
+Massachusetts,Female,40-49 years,40.0
+Massachusetts,Female,45-54 years,132.0
+Massachusetts,Female,50-64 years,754.0
+Massachusetts,Female,55-64 years,578.0
+Massachusetts,Female,65-74 years,1373.0
+Massachusetts,Female,75-84 years,2567.0
+Massachusetts,Female,85 years and over,5231.0
+Massachusetts,Male,30-39 years,20.0
+Massachusetts,Male,35-44 years,69.0
+Massachusetts,Male,40-49 years,136.0
+Massachusetts,Male,45-54 years,380.0
+Massachusetts,Male,50-64 years,1418.0
+Massachusetts,Male,55-64 years,1132.0
+Massachusetts,Male,65-74 years,2255.0
+Massachusetts,Male,75-84 years,3064.0
+Massachusetts,Male,85 years and over,3599.0
+Michigan,Female,18-29 years,36.0
+Michigan,Female,25-34 years,82.0
+Michigan,Female,30-39 years,115.0
+Michigan,Female,35-44 years,215.0
+Michigan,Female,40-49 years,413.0
+Michigan,Female,45-54 years,682.0
+Michigan,Female,50-64 years,2461.0
+Michigan,Female,55-64 years,1980.0
+Michigan,Female,65-74 years,3491.0
+Michigan,Female,75-84 years,4355.0
+Michigan,Female,85 years and over,5796.0
+Michigan,Male,18-29 years,26.0
+Michigan,Male,25-34 years,124.0
+Michigan,Male,30-39 years,236.0
+Michigan,Male,35-44 years,385.0
+Michigan,Male,40-49 years,717.0
+Michigan,Male,45-54 years,1269.0
+Michigan,Male,50-64 years,3739.0
+Michigan,Male,55-64 years,2885.0
+Michigan,Male,65-74 years,5030.0
+Michigan,Male,75-84 years,5536.0
+Michigan,Male,85 years and over,4465.0
+Minnesota,Female,30-39 years,11.0
+Minnesota,Female,35-44 years,26.0
+Minnesota,Female,40-49 years,51.0
+Minnesota,Female,45-54 years,116.0
+Minnesota,Female,50-64 years,623.0
+Minnesota,Female,55-64 years,477.0
+Minnesota,Female,65-74 years,1025.0
+Minnesota,Female,75-84 years,1722.0
+Minnesota,Female,85 years and over,3264.0
+Minnesota,Male,25-34 years,25.0
+Minnesota,Male,30-39 years,52.0
+Minnesota,Male,35-44 years,84.0
+Minnesota,Male,40-49 years,157.0
+Minnesota,Male,45-54 years,317.0
+Minnesota,Male,50-64 years,1189.0
+Minnesota,Male,55-64 years,942.0
+Minnesota,Male,65-74 years,1643.0
+Minnesota,Male,75-84 years,2279.0
+Minnesota,Male,85 years and over,2476.0
+Mississippi,Female,18-29 years,14.0
+Mississippi,Female,25-34 years,36.0
+Mississippi,Female,30-39 years,88.0
+Mississippi,Female,35-44 years,166.0
+Mississippi,Female,40-49 years,270.0
+Mississippi,Female,45-54 years,410.0
+Mississippi,Female,50-64 years,1292.0
+Mississippi,Female,55-64 years,1015.0
+Mississippi,Female,65-74 years,1569.0
+Mississippi,Female,75-84 years,1777.0
+Mississippi,Female,85 years and over,1790.0
+Mississippi,Male,25-34 years,43.0
+Mississippi,Male,30-39 years,78.0
+Mississippi,Male,35-44 years,167.0
+Mississippi,Male,40-49 years,310.0
+Mississippi,Male,45-54 years,537.0
+Mississippi,Male,50-64 years,1583.0
+Mississippi,Male,55-64 years,1218.0
+Mississippi,Male,65-74 years,2041.0
+Mississippi,Male,75-84 years,2042.0
+Mississippi,Male,85 years and over,1213.0
+Missouri,Female,18-29 years,10.0
+Missouri,Female,25-34 years,36.0
+Missouri,Female,30-39 years,57.0
+Missouri,Female,35-44 years,154.0
+Missouri,Female,40-49 years,293.0
+Missouri,Female,45-54 years,388.0
+Missouri,Female,50-64 years,1532.0
+Missouri,Female,55-64 years,1251.0
+Missouri,Female,65-74 years,2249.0
+Missouri,Female,75-84 years,2685.0
+Missouri,Female,85 years and over,3699.0
+Missouri,Male,18-29 years,10.0
+Missouri,Male,25-34 years,39.0
+Missouri,Male,30-39 years,129.0
+Missouri,Male,35-44 years,234.0
+Missouri,Male,40-49 years,392.0
+Missouri,Male,45-54 years,723.0
+Missouri,Male,50-64 years,2394.0
+Missouri,Male,55-64 years,1856.0
+Missouri,Male,65-74 years,2872.0
+Missouri,Male,75-84 years,3497.0
+Missouri,Male,85 years and over,2794.0
+Montana,Female,45-54 years,16.0
+Montana,Female,50-64 years,214.0
+Montana,Female,55-64 years,148.0
+Montana,Female,65-74 years,307.0
+Montana,Female,75-84 years,322.0
+Montana,Female,85 years and over,449.0
+Montana,Male,35-44 years,13.0
+Montana,Male,40-49 years,25.0
+Montana,Male,45-54 years,67.0
+Montana,Male,50-64 years,310.0
+Montana,Male,55-64 years,251.0
+Montana,Male,65-74 years,454.0
+Montana,Male,75-84 years,583.0
+Montana,Male,85 years and over,393.0
+Nebraska,Female,40-49 years,10.0
+Nebraska,Female,45-54 years,20.0
+Nebraska,Female,50-64 years,226.0
+Nebraska,Female,55-64 years,164.0
+Nebraska,Female,65-74 years,322.0
+Nebraska,Female,75-84 years,491.0
+Nebraska,Female,85 years and over,998.0
+Nebraska,Male,35-44 years,10.0
+Nebraska,Male,40-49 years,35.0
+Nebraska,Male,45-54 years,94.0
+Nebraska,Male,50-64 years,472.0
+Nebraska,Male,55-64 years,324.0
+Nebraska,Male,65-74 years,679.0
+Nebraska,Male,75-84 years,841.0
+Nebraska,Male,85 years and over,740.0
+Nevada,Female,25-34 years,10.0
+Nevada,Female,30-39 years,10.0
+Nevada,Female,35-44 years,65.0
+Nevada,Female,40-49 years,166.0
+Nevada,Female,45-54 years,255.0
+Nevada,Female,50-64 years,828.0
+Nevada,Female,55-64 years,621.0
+Nevada,Female,65-74 years,1074.0
+Nevada,Female,75-84 years,1251.0
+Nevada,Female,85 years and over,945.0
+Nevada,Male,25-34 years,12.0
+Nevada,Male,30-39 years,74.0
+Nevada,Male,35-44 years,198.0
+Nevada,Male,40-49 years,380.0
+Nevada,Male,45-54 years,632.0
+Nevada,Male,50-64 years,1531.0
+Nevada,Male,55-64 years,1137.0
+Nevada,Male,65-74 years,1998.0
+Nevada,Male,75-84 years,2006.0
+Nevada,Male,85 years and over,1071.0
+New Hampshire,Female,50-64 years,36.0
+New Hampshire,Female,55-64 years,30.0
+New Hampshire,Female,65-74 years,132.0
+New Hampshire,Female,75-84 years,259.0
+New Hampshire,Female,85 years and over,587.0
+New Hampshire,Male,35-44 years,10.0
+New Hampshire,Male,45-54 years,12.0
+New Hampshire,Male,50-64 years,151.0
+New Hampshire,Male,55-64 years,114.0
+New Hampshire,Male,65-74 years,235.0
+New Hampshire,Male,75-84 years,349.0
+New Hampshire,Male,85 years and over,381.0
+New Jersey,Female,18-29 years,10.0
+New Jersey,Female,25-34 years,32.0
+New Jersey,Female,30-39 years,67.0
+New Jersey,Female,35-44 years,121.0
+New Jersey,Female,40-49 years,265.0
+New Jersey,Female,45-54 years,513.0
+New Jersey,Female,50-64 years,1998.0
+New Jersey,Female,55-64 years,1606.0
+New Jersey,Female,65-74 years,2825.0
+New Jersey,Female,75-84 years,4241.0
+New Jersey,Female,85 years and over,6589.0
+New Jersey,Male,18-29 years,35.0
+New Jersey,Male,25-34 years,116.0
+New Jersey,Male,30-39 years,245.0
+New Jersey,Male,35-44 years,410.0
+New Jersey,Male,40-49 years,690.0
+New Jersey,Male,45-54 years,1218.0
+New Jersey,Male,50-64 years,3780.0
+New Jersey,Male,55-64 years,2951.0
+New Jersey,Male,65-74 years,4420.0
+New Jersey,Male,75-84 years,5094.0
+New Jersey,Male,85 years and over,4812.0
+New Mexico,Female,30-39 years,48.0
+New Mexico,Female,35-44 years,99.0
+New Mexico,Female,40-49 years,171.0
+New Mexico,Female,45-54 years,233.0
+New Mexico,Female,50-64 years,618.0
+New Mexico,Female,55-64 years,468.0
+New Mexico,Female,65-74 years,765.0
+New Mexico,Female,75-84 years,812.0
+New Mexico,Female,85 years and over,913.0
+New Mexico,Male,25-34 years,52.0
+New Mexico,Male,30-39 years,153.0
+New Mexico,Male,35-44 years,207.0
+New Mexico,Male,40-49 years,263.0
+New Mexico,Male,45-54 years,403.0
+New Mexico,Male,50-64 years,1109.0
+New Mexico,Male,55-64 years,824.0
+New Mexico,Male,65-74 years,1097.0
+New Mexico,Male,75-84 years,1067.0
+New Mexico,Male,85 years and over,796.0
+New York,Female,25-34 years,24.0
+New York,Female,30-39 years,87.0
+New York,Female,35-44 years,159.0
+New York,Female,40-49 years,281.0
+New York,Female,45-54 years,505.0
+New York,Female,50-64 years,2078.0
+New York,Female,55-64 years,1670.0
+New York,Female,65-74 years,3307.0
+New York,Female,75-84 years,5074.0
+New York,Female,85 years and over,8910.0
+New York,Male,18-29 years,40.0
+New York,Male,25-34 years,88.0
+New York,Male,30-39 years,184.0
+New York,Male,35-44 years,323.0
+New York,Male,40-49 years,558.0
+New York,Male,45-54 years,1062.0
+New York,Male,50-64 years,3681.0
+New York,Male,55-64 years,2936.0
+New York,Male,65-74 years,4900.0
+New York,Male,75-84 years,6058.0
+New York,Male,85 years and over,6405.0
+New York City,Female,18-29 years,18.0
+New York City,Female,25-34 years,48.0
+New York City,Female,30-39 years,99.0
+New York City,Female,35-44 years,151.0
+New York City,Female,40-49 years,341.0
+New York City,Female,45-54 years,624.0
+New York City,Female,50-64 years,2226.0
+New York City,Female,55-64 years,1814.0
+New York City,Female,65-74 years,3309.0
+New York City,Female,75-84 years,4339.0
+New York City,Female,85 years and over,5768.0
+New York City,Male,15-24 years,15.0
+New York City,Male,18-29 years,54.0
+New York City,Male,25-34 years,133.0
+New York City,Male,30-39 years,330.0
+New York City,Male,35-44 years,557.0
+New York City,Male,40-49 years,884.0
+New York City,Male,45-54 years,1485.0
+New York City,Male,50-64 years,4543.0
+New York City,Male,55-64 years,3557.0
+New York City,Male,65-74 years,5443.0
+New York City,Male,75-84 years,5537.0
+New York City,Male,85 years and over,4445.0
+North Carolina,Female,18-29 years,23.0
+North Carolina,Female,25-34 years,76.0
+North Carolina,Female,30-39 years,158.0
+North Carolina,Female,35-44 years,285.0
+North Carolina,Female,40-49 years,468.0
+North Carolina,Female,45-54 years,783.0
+North Carolina,Female,50-64 years,2589.0
+North Carolina,Female,55-64 years,2067.0
+North Carolina,Female,65-74 years,3428.0
+North Carolina,Female,75-84 years,4258.0
+North Carolina,Female,85 years and over,5052.0
+North Carolina,Male,18-29 years,38.0
+North Carolina,Male,25-34 years,115.0
+North Carolina,Male,30-39 years,200.0
+North Carolina,Male,35-44 years,400.0
+North Carolina,Male,40-49 years,763.0
+North Carolina,Male,45-54 years,1256.0
+North Carolina,Male,50-64 years,3668.0
+North Carolina,Male,55-64 years,2860.0
+North Carolina,Male,65-74 years,4488.0
+North Carolina,Male,75-84 years,4954.0
+North Carolina,Male,85 years and over,3626.0
+North Dakota,Female,50-64 years,77.0
+North Dakota,Female,55-64 years,48.0
+North Dakota,Female,65-74 years,142.0
+North Dakota,Female,75-84 years,257.0
+North Dakota,Female,85 years and over,453.0
+North Dakota,Male,35-44 years,10.0
+North Dakota,Male,40-49 years,10.0
+North Dakota,Male,45-54 years,32.0
+North Dakota,Male,50-64 years,228.0
+North Dakota,Male,55-64 years,176.0
+North Dakota,Male,65-74 years,302.0
+North Dakota,Male,75-84 years,339.0
+North Dakota,Male,85 years and over,394.0
+Ohio,Female,18-29 years,18.0
+Ohio,Female,25-34 years,93.0
+Ohio,Female,30-39 years,193.0
+Ohio,Female,35-44 years,297.0
+Ohio,Female,40-49 years,502.0
+Ohio,Female,45-54 years,874.0
+Ohio,Female,50-64 years,3123.0
+Ohio,Female,55-64 years,2508.0
+Ohio,Female,65-74 years,4613.0
+Ohio,Female,75-84 years,6241.0
+Ohio,Female,85 years and over,8446.0
+Ohio,Male,18-29 years,76.0
+Ohio,Male,25-34 years,144.0
+Ohio,Male,30-39 years,261.0
+Ohio,Male,35-44 years,424.0
+Ohio,Male,40-49 years,713.0
+Ohio,Male,45-54 years,1288.0
+Ohio,Male,50-64 years,4533.0
+Ohio,Male,55-64 years,3607.0
+Ohio,Male,65-74 years,6516.0
+Ohio,Male,75-84 years,7519.0
+Ohio,Male,85 years and over,6347.0
+Oklahoma,Female,18-29 years,10.0
+Oklahoma,Female,25-34 years,29.0
+Oklahoma,Female,30-39 years,87.0
+Oklahoma,Female,35-44 years,153.0
+Oklahoma,Female,40-49 years,265.0
+Oklahoma,Female,45-54 years,443.0
+Oklahoma,Female,50-64 years,1346.0
+Oklahoma,Female,55-64 years,1009.0
+Oklahoma,Female,65-74 years,1859.0
+Oklahoma,Female,75-84 years,2190.0
+Oklahoma,Female,85 years and over,2279.0
+Oklahoma,Male,18-29 years,25.0
+Oklahoma,Male,25-34 years,70.0
+Oklahoma,Male,30-39 years,134.0
+Oklahoma,Male,35-44 years,252.0
+Oklahoma,Male,40-49 years,410.0
+Oklahoma,Male,45-54 years,686.0
+Oklahoma,Male,50-64 years,2119.0
+Oklahoma,Male,55-64 years,1635.0
+Oklahoma,Male,65-74 years,2447.0
+Oklahoma,Male,75-84 years,2625.0
+Oklahoma,Male,85 years and over,1952.0
+Oregon,Female,30-39 years,21.0
+Oregon,Female,35-44 years,29.0
+Oregon,Female,40-49 years,52.0
+Oregon,Female,45-54 years,80.0
+Oregon,Female,50-64 years,448.0
+Oregon,Female,55-64 years,348.0
+Oregon,Female,65-74 years,684.0
+Oregon,Female,75-84 years,1013.0
+Oregon,Female,85 years and over,1478.0
+Oregon,Male,30-39 years,28.0
+Oregon,Male,35-44 years,77.0
+Oregon,Male,40-49 years,132.0
+Oregon,Male,45-54 years,248.0
+Oregon,Male,50-64 years,864.0
+Oregon,Male,55-64 years,620.0
+Oregon,Male,65-74 years,1010.0
+Oregon,Male,75-84 years,1364.0
+Oregon,Male,85 years and over,1253.0
+Pennsylvania,Female,25-34 years,38.0
+Pennsylvania,Female,30-39 years,104.0
+Pennsylvania,Female,35-44 years,227.0
+Pennsylvania,Female,40-49 years,468.0
+Pennsylvania,Female,45-54 years,788.0
+Pennsylvania,Female,50-64 years,2925.0
+Pennsylvania,Female,55-64 years,2365.0
+Pennsylvania,Female,65-74 years,4450.0
+Pennsylvania,Female,75-84 years,6351.0
+Pennsylvania,Female,85 years and over,10665.0
+Pennsylvania,Male,18-29 years,30.0
+Pennsylvania,Male,25-34 years,115.0
+Pennsylvania,Male,30-39 years,234.0
+Pennsylvania,Male,35-44 years,401.0
+Pennsylvania,Male,40-49 years,692.0
+Pennsylvania,Male,45-54 years,1335.0
+Pennsylvania,Male,50-64 years,4576.0
+Pennsylvania,Male,55-64 years,3657.0
+Pennsylvania,Male,65-74 years,6396.0
+Pennsylvania,Male,75-84 years,7762.0
+Pennsylvania,Male,85 years and over,7699.0
+Puerto Rico,Female,30-39 years,12.0
+Puerto Rico,Female,40-49 years,12.0
+Puerto Rico,Female,45-54 years,71.0
+Puerto Rico,Female,50-64 years,315.0
+Puerto Rico,Female,55-64 years,225.0
+Puerto Rico,Female,65-74 years,430.0
+Puerto Rico,Female,75-84 years,683.0
+Puerto Rico,Female,85 years and over,915.0
+Puerto Rico,Male,35-44 years,39.0
+Puerto Rico,Male,40-49 years,59.0
+Puerto Rico,Male,45-54 years,183.0
+Puerto Rico,Male,50-64 years,552.0
+Puerto Rico,Male,55-64 years,368.0
+Puerto Rico,Male,65-74 years,667.0
+Puerto Rico,Male,75-84 years,910.0
+Puerto Rico,Male,85 years and over,748.0
+Rhode Island,Female,50-64 years,86.0
+Rhode Island,Female,55-64 years,55.0
+Rhode Island,Female,65-74 years,249.0
+Rhode Island,Female,75-84 years,362.0
+Rhode Island,Female,85 years and over,916.0
+Rhode Island,Male,45-54 years,28.0
+Rhode Island,Male,50-64 years,232.0
+Rhode Island,Male,55-64 years,156.0
+Rhode Island,Male,65-74 years,352.0
+Rhode Island,Male,75-84 years,440.0
+Rhode Island,Male,85 years and over,547.0
+South Carolina,Female,18-29 years,11.0
+South Carolina,Female,25-34 years,37.0
+South Carolina,Female,30-39 years,71.0
+South Carolina,Female,35-44 years,181.0
+South Carolina,Female,40-49 years,279.0
+South Carolina,Female,45-54 years,493.0
+South Carolina,Female,50-64 years,1626.0
+South Carolina,Female,55-64 years,1228.0
+South Carolina,Female,65-74 years,2222.0
+South Carolina,Female,75-84 years,2485.0
+South Carolina,Female,85 years and over,2525.0
+South Carolina,Male,15-24 years,10.0
+South Carolina,Male,18-29 years,20.0
+South Carolina,Male,25-34 years,41.0
+South Carolina,Male,30-39 years,121.0
+South Carolina,Male,35-44 years,246.0
+South Carolina,Male,40-49 years,452.0
+South Carolina,Male,45-54 years,701.0
+South Carolina,Male,50-64 years,2134.0
+South Carolina,Male,55-64 years,1678.0
+South Carolina,Male,65-74 years,2932.0
+South Carolina,Male,75-84 years,3197.0
+South Carolina,Male,85 years and over,2008.0
+South Dakota,Female,45-54 years,20.0
+South Dakota,Female,50-64 years,115.0
+South Dakota,Female,55-64 years,45.0
+South Dakota,Female,65-74 years,253.0
+South Dakota,Female,75-84 years,252.0
+South Dakota,Female,85 years and over,537.0
+South Dakota,Male,45-54 years,10.0
+South Dakota,Male,50-64 years,211.0
+South Dakota,Male,55-64 years,170.0
+South Dakota,Male,65-74 years,306.0
+South Dakota,Male,75-84 years,430.0
+South Dakota,Male,85 years and over,430.0
+Tennessee,Female,18-29 years,45.0
+Tennessee,Female,25-34 years,89.0
+Tennessee,Female,30-39 years,145.0
+Tennessee,Female,35-44 years,279.0
+Tennessee,Female,40-49 years,497.0
+Tennessee,Female,45-54 years,835.0
+Tennessee,Female,50-64 years,2511.0
+Tennessee,Female,55-64 years,1937.0
+Tennessee,Female,65-74 years,3229.0
+Tennessee,Female,75-84 years,3666.0
+Tennessee,Female,85 years and over,3630.0
+Tennessee,Male,18-29 years,30.0
+Tennessee,Male,25-34 years,95.0
+Tennessee,Male,30-39 years,240.0
+Tennessee,Male,35-44 years,404.0
+Tennessee,Male,40-49 years,705.0
+Tennessee,Male,45-54 years,1238.0
+Tennessee,Male,50-64 years,3443.0
+Tennessee,Male,55-64 years,2611.0
+Tennessee,Male,65-74 years,4272.0
+Tennessee,Male,75-84 years,4549.0
+Tennessee,Male,85 years and over,2808.0
+Texas,Female,0-17 years,10.0
+Texas,Female,15-24 years,96.0
+Texas,Female,18-29 years,321.0
+Texas,Female,25-34 years,576.0
+Texas,Female,30-39 years,956.0
+Texas,Female,35-44 years,1482.0
+Texas,Female,40-49 years,2228.0
+Texas,Female,45-54 years,3221.0
+Texas,Female,50-64 years,8630.0
+Texas,Female,55-64 years,6745.0
+Texas,Female,65-74 years,10211.0
+Texas,Female,75-84 years,10743.0
+Texas,Female,85 years and over,10905.0
+Texas,Male,0-17 years,20.0
+Texas,Male,15-24 years,107.0
+Texas,Male,18-29 years,509.0
+Texas,Male,25-34 years,1068.0
+Texas,Male,30-39 years,1708.0
+Texas,Male,35-44 years,2689.0
+Texas,Male,40-49 years,4242.0
+Texas,Male,45-54 years,6004.0
+Texas,Male,50-64 years,14499.0
+Texas,Male,55-64 years,11039.0
+Texas,Male,65-74 years,15010.0
+Texas,Male,75-84 years,14223.0
+Texas,Male,85 years and over,9536.0
+Utah,Female,35-44 years,13.0
+Utah,Female,40-49 years,62.0
+Utah,Female,45-54 years,49.0
+Utah,Female,50-64 years,285.0
+Utah,Female,55-64 years,233.0
+Utah,Female,65-74 years,369.0
+Utah,Female,75-84 years,534.0
+Utah,Female,85 years and over,524.0
+Utah,Male,25-34 years,21.0
+Utah,Male,30-39 years,38.0
+Utah,Male,35-44 years,87.0
+Utah,Male,40-49 years,148.0
+Utah,Male,45-54 years,238.0
+Utah,Male,50-64 years,642.0
+Utah,Male,55-64 years,435.0
+Utah,Male,65-74 years,773.0
+Utah,Male,75-84 years,770.0
+Utah,Male,85 years and over,677.0
+Vermont,Female,75-84 years,11.0
+Vermont,Female,85 years and over,82.0
+Vermont,Male,50-64 years,10.0
+Vermont,Male,65-74 years,14.0
+Vermont,Male,75-84 years,33.0
+Vermont,Male,85 years and over,65.0
+Virginia,Female,25-34 years,25.0
+Virginia,Female,30-39 years,47.0
+Virginia,Female,35-44 years,108.0
+Virginia,Female,40-49 years,224.0
+Virginia,Female,45-54 years,393.0
+Virginia,Female,50-64 years,1451.0
+Virginia,Female,55-64 years,1137.0
+Virginia,Female,65-74 years,2173.0
+Virginia,Female,75-84 years,2735.0
+Virginia,Female,85 years and over,3919.0
+Virginia,Male,18-29 years,11.0
+Virginia,Male,25-34 years,49.0
+Virginia,Male,30-39 years,89.0
+Virginia,Male,35-44 years,146.0
+Virginia,Male,40-49 years,375.0
+Virginia,Male,45-54 years,660.0
+Virginia,Male,50-64 years,2267.0
+Virginia,Male,55-64 years,1774.0
+Virginia,Male,65-74 years,2851.0
+Virginia,Male,75-84 years,3401.0
+Virginia,Male,85 years and over,2849.0
+Washington,Female,25-34 years,11.0
+Washington,Female,30-39 years,32.0
+Washington,Female,35-44 years,67.0
+Washington,Female,40-49 years,116.0
+Washington,Female,45-54 years,184.0
+Washington,Female,50-64 years,795.0
+Washington,Female,55-64 years,604.0
+Washington,Female,65-74 years,1312.0
+Washington,Female,75-84 years,1705.0
+Washington,Female,85 years and over,2375.0
+Washington,Male,25-34 years,34.0
+Washington,Male,30-39 years,84.0
+Washington,Male,35-44 years,170.0
+Washington,Male,40-49 years,261.0
+Washington,Male,45-54 years,463.0
+Washington,Male,50-64 years,1503.0
+Washington,Male,55-64 years,1123.0
+Washington,Male,65-74 years,1996.0
+Washington,Male,75-84 years,2207.0
+Washington,Male,85 years and over,2061.0
+West Virginia,Female,35-44 years,22.0
+West Virginia,Female,40-49 years,63.0
+West Virginia,Female,45-54 years,119.0
+West Virginia,Female,50-64 years,509.0
+West Virginia,Female,55-64 years,374.0
+West Virginia,Female,65-74 years,856.0
+West Virginia,Female,75-84 years,1015.0
+West Virginia,Female,85 years and over,1066.0
+West Virginia,Male,35-44 years,40.0
+West Virginia,Male,40-49 years,119.0
+West Virginia,Male,45-54 years,243.0
+West Virginia,Male,50-64 years,735.0
+West Virginia,Male,55-64 years,533.0
+West Virginia,Male,65-74 years,1113.0
+West Virginia,Male,75-84 years,1236.0
+West Virginia,Male,85 years and over,804.0
+Wisconsin,Female,30-39 years,47.0
+Wisconsin,Female,35-44 years,68.0
+Wisconsin,Female,40-49 years,99.0
+Wisconsin,Female,45-54 years,199.0
+Wisconsin,Female,50-64 years,795.0
+Wisconsin,Female,55-64 years,616.0
+Wisconsin,Female,65-74 years,1314.0
+Wisconsin,Female,75-84 years,1983.0
+Wisconsin,Female,85 years and over,3079.0
+Wisconsin,Male,18-29 years,10.0
+Wisconsin,Male,25-34 years,13.0
+Wisconsin,Male,30-39 years,48.0
+Wisconsin,Male,35-44 years,116.0
+Wisconsin,Male,40-49 years,223.0
+Wisconsin,Male,45-54 years,433.0
+Wisconsin,Male,50-64 years,1436.0
+Wisconsin,Male,55-64 years,1091.0
+Wisconsin,Male,65-74 years,2098.0
+Wisconsin,Male,75-84 years,2593.0
+Wisconsin,Male,85 years and over,2529.0
+Wyoming,Female,50-64 years,59.0
+Wyoming,Female,55-64 years,39.0
+Wyoming,Female,65-74 years,100.0
+Wyoming,Female,75-84 years,129.0
+Wyoming,Female,85 years and over,217.0
+Wyoming,Male,50-64 years,114.0
+Wyoming,Male,55-64 years,92.0
+Wyoming,Male,65-74 years,185.0
+Wyoming,Male,75-84 years,206.0
+Wyoming,Male,85 years and over,117.0
